@@ -1,3 +1,14 @@
+/**
+ * 
+ * @author Rachel Ward
+ * 
+ * This class represents a movie object
+ * 
+ * parameters include a String name, a String 
+ * rating and an integer ID 
+ *
+ */
+
 public class Movie {
 	
 	private String movieName;
